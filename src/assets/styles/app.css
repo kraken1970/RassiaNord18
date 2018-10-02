@@ -1,10 +1,9 @@
-@import 'normalize.css/normalize.css';
+@import "normalize.css/normalize.css";
 /*@import './lib/bootstrap-grid-3.3.1.min.css';*/
 /*@import './fonts.css';*/
 /*@import './font-awesome/css/font-awesome.min.css';*/
 /*@import '../extensions/owl-carousel/owl.carousel.css';
 @import '../extensions/owl-carousel/owl.theme.css';
 @import '../extensions/responsive-tabs/responsive-tabs.css';*/
-@import './main.css';
-@import './media.css';
-
+@import "./main.pcss";
+@import "./media.css";
